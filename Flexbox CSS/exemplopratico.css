@@ -30,6 +30,6 @@ p {
     align-items: center;
     flex-wrap: wrap;
     gap: 10px;
-    align-content: space-between;
+    align-content: space-around;
     height: 500px;
 }
